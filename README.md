@@ -1,17 +1,236 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">A passionate frontend developer from India, learning and working on various technologies.</h3>
+<h3 align="center">
+  Software Engineer | Full-Stack Developer | Problem Solver
+</h3>
 
-
-- 🌱 I’m currently learning *React, Express, MongoDB*
-
-- 💬 Ask me about *Tailwind, JavaScript*
-
-- 📫 How to reach me *sandeepkumar073113@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/SandeepKumar8079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepkumar" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building scalable, responsive and user-focused web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:sandeepkumar073113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="http://www.linkedin.com/in/SandeepKumar8079" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+## 👨‍💻 About Me
+I'm a **Software Engineer from India** with a strong interest in building modern, scalable and user-friendly applications.
+
+I enjoy working across the **frontend, backend and database layers**, and continuously improving my problem-solving and software engineering skills.
+
+- 💻 Experienced in **Frontend & Full-Stack Development**
+- 🌱 Currently learning and strengthening **React, Spring Boot, Microservices & Backend Development**
+- ⚡ Experienced with **Angular, React, JavaScript, TypeScript, Java and Node.js**
+- 🔧 Building applications using **REST APIs, Spring Boot, Express.js and Microservices**
+- 🗄️ Working with **SQL, PostgreSQL, MySQL, MongoDB and PL/SQL**
+- 🔐 Interested in **Authentication, Authorization, JWT and RBAC**
+- 📱 Passionate about **Responsive UI/UX and reusable components**
+- 🔍 Interested in **Google SEO, Technical SEO and Web Performance**
+- 🧠 Regularly practicing **Data Structures & Algorithms**
+- 💬 Ask me about **JavaScript, Angular, React, Java, Spring Boot, SQL and Tailwind CSS**
+- 📫 Reach me at **sandeepkumar073113@gmail.com**
+
+---
+
+# 🛠️ Languages, Technologies & Tools
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="SCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+</p>
+
+---
+
+## 🏗️ Microservices & Architecture
+
+```text
+Microservices Architecture
+RESTful Services
+Service-to-Service Communication
+API Gateway
+Service Discovery
+Scalable Architecture
+Layered Architecture
+MVC Architecture
+Clean Architecture
+Object-Oriented Programming
+SOLID Principles
+Design Patterns
+Dependency Injection
+```
+
+---
+
+## 🗄️ Databases & SQL
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</p>
+
+---
+
+## 🔧 Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="NPM"/>
+</p>
+---
+
+## ☁️ Cloud, Deployment & DevOps
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/>
+</p>
+
+---
+
+## 🔍 SEO & Web Optimization
+
+```text
+Google SEO
+On-Page SEO
+Technical SEO
+Keyword Optimization
+Meta Tags
+Semantic HTML
+SEO-Friendly URLs
+Structured Data
+Google Search Console
+Google Analytics
+Web Performance
+Responsive Web Design
+Accessibility
+Core Web Vitals
+Page Speed Optimization
+```
+
+---
+
+## 🧪 Testing & API Development
+
+```text
+REST API
+Postman
+API Testing
+Unit Testing
+Integration Testing
+HTTP / HTTPS
+JSON
+API Documentation
+Swagger / OpenAPI
+Error Handling
+Request Validation
+```
+
+---
+
+# 🚀 Featured Projects
+## 💰 Mini Expense Tracker
+A responsive expense management application for tracking and managing personal expenses.
+### Features
+
+- ➕ Add, edit and delete expense entries
+- 📊 Dashboard and expense summary
+- 🏷️ Category management
+- 💳 Payment method tracking
+- 📅 Date-based expense management
+- ✅ Form validation
+- 📥 Excel export
+- 📱 Responsive UI
+
+### Tech Stack
+
+`Angular` `TypeScript` `JSON Server` `Tailwind CSS` `SCSS`
+
+
+## 🚗 Car Rental Application
+A full-stack car rental platform with separate **Admin and User** functionality.
+### Features
+
+- 🔐 Authentication & Authorization
+- 👨‍💼 Admin dashboard
+- 🚘 Car management
+- 🔎 Car filtering
+- 📊 Availability management
+- ☁️ Cloudinary image uploads
+- 📡 REST API integration
+- 👤 User management
+- 📱 Responsive interface
+
+### Tech Stack
+
+`Angular` `Node.js` `Express.js` `MongoDB` `Cloudinary`
+
+---
+
+## 🎬 Movie Explorer
+A modern movie discovery application built with React.
+### Features
+
+- 🔎 Movie search
+- 🎬 Movie discovery
+- 📡 API integration
+- 🧩 Reusable React components
+- 📱 Responsive design
+- ⚡ Dynamic content
+
+### Tech Stack
+
+`React` `JavaScript` `REST API` `CSS`
+
+<div align="center">
+
+### 💻 Build • Learn • Solve • Improve 🚀
+
+**Thanks for visiting my GitHub profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
